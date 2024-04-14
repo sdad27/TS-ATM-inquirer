@@ -1,5 +1,7 @@
 #! /usr/bin/env node
 
+// download package command = npm i sdad27-atm / npx sdad27-atm
+
 import inquirer from "inquirer";
 
 let myBalance = 10000;
